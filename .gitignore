@@ -11,3 +11,6 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /docker-compose
+/docker-compose/mariadb
+/docker-compose/mariadb/data
+/docker-compose/mariadb/initdb
